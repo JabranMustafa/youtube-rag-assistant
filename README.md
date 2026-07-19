@@ -181,7 +181,7 @@ TRANSCRIPT_API=http://localhost:8000
 
 # 👨‍💻 Author
 
-**Hasnain Shafiq**
+**Jabran Mustafa**
 
 M.Sc. Artificial Intelligence  
 Brandenburg University of Technology Cottbus–Senftenberg
