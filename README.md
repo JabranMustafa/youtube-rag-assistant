@@ -186,5 +186,5 @@ TRANSCRIPT_API=http://localhost:8000
 M.Sc. Artificial Intelligence  
 Brandenburg University of Technology Cottbus–Senftenberg
 
-- LinkedIn: https://www.linkedin.com/in/https://www.linkedin.com/in/jabran-mustafa-80443a245 
-- GitHub: https://github.com/https://github.com/JabranMustafa
+- LinkedIn: https://www.linkedin.com/in/jabran-mustafa-80443a245 
+- GitHub: https://github.com/JabranMustafa
